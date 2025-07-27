@@ -8,4 +8,4 @@ This simple Python script takes a lowercase letter as input from the user and pr
 - Easy to use and beginner-friendly
 
 # License
-This project is open-source and free to use.
+This project is open-source  and free to use.
